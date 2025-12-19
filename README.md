@@ -21,18 +21,32 @@ studying-resources/
 ├── programming/
 │   ├── java.md
 │   ├── python.md
-│   └── c.md
+│   ├── c.md
+│   └── html&css.md
 │
 ├── calculus/
-│   ├── game-design.md
-│   ├── rpg-mechanics.md
+│   └── cal1.md
+│   
 │
-├── computer-science/
-│   ├── data-structures.md
-│   └── operating-systems.md
+├── computer-science-tips/
+│   └── how-to-study.md
+│   
 │
-├── productivity/
-│   └── study-techniques.md
+├── game-development/
+│   └── java-2d-game.md
+│   
+│
+├── math-in-the-modern-world/
+│   └── MMW.md
+│   
+│
+├── discrete-mathematics/
+│   └── discrete-math.md
+│   
+│
+├── data-structures-and-algorithms/
+│   ├── algo.md
+│   └── discrete-structures.md
 │
 └── README.md
 ```
